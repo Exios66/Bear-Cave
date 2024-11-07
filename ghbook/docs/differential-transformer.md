@@ -1,3 +1,7 @@
+---
+icon: robot-astromech
+---
+
 # Differential Transformer
 
 ## Citation Information
