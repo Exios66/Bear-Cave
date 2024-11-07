@@ -18,14 +18,14 @@ Eunoia refers to a state of mind characterized by beautiful or enlightened think
 Example usage: The leaders appealed for eunoia among the warring factions, hoping to restore peace and mutual understanding.
 Translation: (From Greek εὔνοια, meaning "well-mind" or "beautiful thinking")
 
-### A state of having healthy, benevolent feelings or goodwill towards others 
+### A state of having healthy, benevolent feelings or goodwill towards others
 
 Eunoia describes a benevolent mental state of wishing others well, being favorably disposed, and harboring positive sentiments and goodwill towards them. It conveys an attitude of kindness, compassion, and wanting the best for others.
 
 Example usage: The organization's mission is guided by eunoia, promoting the welfare of underprivileged communities worldwide.  
 Translation: (From Greek εὔνοια)
 
-### A positive, agreeable, and cooperative state of mind 
+### A positive, agreeable, and cooperative state of mind
 
 Eunoia can also signify a constructive and agreeable state of mind that fosters cooperation, harmony, and positive relations between individuals or groups. It represents a mindset conducive to mutual understanding and collaboration.
 
@@ -37,4 +37,5 @@ Translation: (From Greek εὔνοια)
 > **Euphoria (εὐφορία) - State of intense happiness/delight**
 > **Eunomia (εὐνομία) - Good order, good government**
 > **Euphemia (εὐφημία) - Use of auspicious/praise words**
-- [x] 
+
+- [x]
